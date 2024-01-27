@@ -1,4 +1,4 @@
-# 💫 What's Up?
+# ✌️ What's Up?
 My name's Tiago<br>Currently studying Computer Engineering and Multimedia @ ISEL<br>
 
 
