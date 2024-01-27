@@ -1,5 +1,5 @@
-# 💫 About Me:
-What's up?<br>My name's Tiago<br>Currently studying Computer Engineering and Multimedia @ ISEL<br>
+# 💫 What's Up?
+My name's Tiago<br>Currently studying Computer Engineering and Multimedia @ ISEL<br>
 
 
 ## 🌐 Socials:
