@@ -1,5 +1,5 @@
 # ✌️ What's Up?
-Currently studying Computer Engineering and Multimedia @ ISEL<br><img src="https://content.codecademy.com/articles/github-pages-via-web-app/happy-ice-cream.gif"><br>
+Currently studying Computer Engineering and Multimedia @ ISEL<br><img width="50" src="https://content.codecademy.com/articles/github-pages-via-web-app/happy-ice-cream.gif"><br>
 
 
 
